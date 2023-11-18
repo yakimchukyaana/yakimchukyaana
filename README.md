@@ -43,7 +43,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yakimchukyaana&repo=reqres-api)](https://github.com/yakimchukyaana/reqres-api)
 
-## ⚙️ GitHub Analytics
+## 📈 GitHub Analytics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yakimchukyaana&theme=solarized_dark)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yakimchukyaana&theme=solarized_dark)
