@@ -28,7 +28,6 @@
 <a href="https://qameta.io/"><img src="media/allureTestOps.svg" width="50" height="50" alt="Allure TestOps" title="Allure TestOps"/></a>
 <a href="https://www.jenkins.io/"><img src="media/jenkins.svg" width="50" height="50" alt="Jenkins" title="Jenkins"/></a>
 <a href="https://rest-assured.io/"><img src="media/restAssured.png" width="50" height="50"  alt="Rest-Assured"/></a>
-<a href="https://www.jenkins.io/"><img src="media/jenkins.svg" width="50" height="50" alt="Jenkins" title="Jenkins"/></a>
 <a href="https://www.atlassian.com/ru/software/jira"><img src="media/jira.svg" width="50" height="50" alt="Jira" title="Jira"/></a>
 <a href="https://web.telegram.org/"><img src="media/telegram.svg" width="50" height="50" alt="Telegram" title="Telegram"></a>
 </p>
